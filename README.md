@@ -87,5 +87,3 @@ Generated a unified table combining:
 
 ---
 
-## 📁 Folder Structure
-
